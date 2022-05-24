@@ -1,0 +1,43 @@
+header,footer{
+    width: 100%;
+    float: left;
+    margin: 5px 0px;
+    background-color: darkcyan;
+    }
+    
+    
+    footer ul {margin-left: 500px; padding: 20px; list-style-type: none;}
+    
+    footer ul li {padding: 10px; float: left;}
+    
+    footer ul li a {float: right; padding: 0 0 0 20px; text-decoration:none;color:#fbfcfd;}
+    
+    
+    
+    
+    
+    nav ul {margin: 0; padding: 0; list-style-type: none;}
+    
+    nav ul li {padding: 10px; float: right;}
+    
+    nav ul li a {float: right; padding: 0 0 0 20px; text-decoration:none;color:#fafbfd;}
+    
+    
+    
+    body{background-color: #060707;
+     color: #fdfeff; 
+     border:1px solid #fafbfd;
+     height: 700px;
+    
+    }
+    h1{
+      margin-left: 60px;
+    }
+    #image{
+    width: 350px;
+    height: 450px;    
+    margin-left: 40px ;
+    padding: 15px;
+    float: left;
+    }
+    
