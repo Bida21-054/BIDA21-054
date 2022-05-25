@@ -93,7 +93,7 @@ body{ color: #ebeff3;
        <h2>Anime-51</h2>
      </nav>
  </div>
-</header><title> Layout </title>
+</header><title> HOMEPAGE </title>
 
 
 <h1>COMING SOON</h1>
